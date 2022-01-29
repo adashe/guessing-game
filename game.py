@@ -2,4 +2,5 @@
 
 # Put your code here
 
-print('Hello, welcome to our guessing game')
+user_name = input("What's your name?")
+print(f'Hello {user_name}, welcome to our guessing game')
