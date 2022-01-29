@@ -2,5 +2,4 @@
 
 # Put your code here
 
-print("Aviya")
-print('Andrea')
+print('Hello, welcome to our guessing game')
